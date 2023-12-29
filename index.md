@@ -1,3 +1,3 @@
-# prabin-lc.github.i0
+# prabin-lc.github.io
 
 Hello World
